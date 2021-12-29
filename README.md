@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasibaliopu
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development at Programming Hero
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
