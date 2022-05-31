@@ -50,14 +50,11 @@
 </td></tr></table>  
 <br/>  
 <br/>
-<div align="center">
-<img src="https://bloggingcoder.com/images/categories/mern.jpg" align="center" style="width: 100%; height:70% " />
-</div>  
 <br/>  
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=hasibaliopu&&style=flat-square" align="center" />
 </div>  
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
