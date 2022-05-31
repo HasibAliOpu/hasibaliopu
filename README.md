@@ -1,49 +1,94 @@
-<!-- Greeting -->
-# Greetings, I'm Junda! :wave:
+# Hello there I am Viral Bhadeshiya👋
 
-[![Linkedin](https://img.shields.io/badge/-izzuddinahsanujunda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/izzuddinahsanujunda/)
-[![Gmail](https://img.shields.io/badge/-izzuddin.ahsanujunda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:izzuddin.ahsanujunda@gmail.com)
-[![Blog](https://img.shields.io/badge/-iahsanujunda.github.io-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://iahsanujunda.github.io)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasibaliopu&theme=dark&show_icons=true)
-<!--Introduction -->
-I'm a **Lead Data Scientist** at [DANA Indonesia](https://dana.id), a digital payment provider in Indonesia, where I build production ready modules that leveraged statistical and learning models mainly to combat payment fraud and provide personalised experience to DANA users. Outside of work, I run freelance web development projects.
 
-- 📚 I’m currently learning causal inference extensively for work
-- 🐝 I have worked on several side projects on a web development using MERN stack that is deployed to Heroku
-- 🔭 I'm doing a personal research project on realtime embedded systems for waste management
-- 🌱 I'm looking to get more familiar with GCP ecosystems
-- 🍰 Fun fact: Me and my wife is a surprisingly good baker, a hobby that we both picked up due to COVID-19 pandemic and turned into business
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
----
+## My tech stack
 
-### Skills for Work
-<code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
-<code><a href="https://www.scala-lang.org/"><img height="40" src="https://seeklogo.com/images/S/scala-logo-8570724313-seeklogo.com.png" alt="scala logo" /></a></code>
-<code><a href="https://spark.apache.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="spark logo" /></a></code>
-<code><a href="https://scikit-learn.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="sklearn logo" /></a></a></code>
-<code><a href="https://pytorch.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="pytorch logo" /></a></code>
-<code><a href="https://jupyter.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyterlab logo" /></a></code>
-<code><a href="https://www.alibabacloud.com/product/maxcompute"><img height="40" src="https://avatars.githubusercontent.com/u/941070?s=280&v=4" alt="aliyun logo" /></a></code>
-<code><a href="https://www.tableau.com/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau logo" /></a></code>
+<p align="left"> 
 
-### Skills for Side Projects
-<code><a href="https://www.typescriptlang.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" /></a></code>
-<code><a href="https://www.javascript.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" /></a></code>
-<code><a href="https://nodejs.org/en/"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" /></a></code>
-<code><a href="https://reactjs.org/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react logo" /></a></code>
-<code><a href="https://redis.io/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis logo" /></a></code>
-<code><a href="https://www.mongodb.com/"><img height="40" src="https://lh3.googleusercontent.com/proxy/ySJGunBv--aEdMj4l5jjQ8yjedaZqZyLcFvdKiqHo7aNqDllAwtSobJU-jWgcxDpo5_t8dlMj50yc8dnTHZJ9XW2f3VKmaFyWQGNIBLYHizmQT3cry7kvhSfy8PliQ" alt="mogno logo" /></a></code>
-<code><a href="https://www.docker.com/"><img height="40" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="mogno logo" /></a></code>
+  <a> 
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
+  </a> 
+  &emsp;
+  <a> 
+    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
+  </a> 
+  &emsp;
+  <a> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a> 
+    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
+  </a>
+  &emsp;
+   <a>
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
+  </a>
+  &emsp; 
+  <a> 
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
+  </a> 
+  &emsp;
+  <a> 
+    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
+  </a> 
+  &emsp;
+  <a> 
+     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
+   </a>
+  &emsp;
+  <a> 
+    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
+  </a>
+  &emsp;
+   <a>
+    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
+  </a>
+</p>
 
-### Currently Getting Familiar
-<code><a href="https://isocpp.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cpp logo" /></a></code>
-<code><a href="https://www.arduino.cc/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="arduino logo" /></a></code>
-<code><a href="https://www.raspberrypi.org/"><img height="40" src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="raspberry logo" /></a></code>
 
----
+## Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Viral Bhadeshiya" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/viralbhadeshiya/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Viral Bhadeshiya" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="Viral Bhadeshiya" height="30" width="40" /></a>
+  <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
+      alt="Viral Bhadeshiya" height="30" width="auto" /></a>
+</p>
 
-Credit [iahsanujunda](https://github.com/iahsanujunda)
-
-Last Edited on: 14/02/2021
+-----
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=viralbhadeshiya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=viralbhadeshiya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+ </p>
 
