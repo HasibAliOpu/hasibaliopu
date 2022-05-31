@@ -1,6 +1,6 @@
 # Hello there I am Viral Bhadeshiya👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![]<img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
