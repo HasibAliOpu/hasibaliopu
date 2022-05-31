@@ -50,10 +50,4 @@
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
  
 </div>
-var developements = {
-    "Web Development" : {
-        "Languages" : [ "HTML" , "CSS", "JavaScript", "TypeScript" ] ,
-        "Frameworks" : [ "Node.js", "Express.js", "MongoDB", 
-                        "MySQL", "React", "Angular", "Ejs", "Bootstrap" ]
-    }
 
