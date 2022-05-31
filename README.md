@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-izzuddin.ahsanujunda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:izzuddin.ahsanujunda@gmail.com)
 [![Blog](https://img.shields.io/badge/-iahsanujunda.github.io-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://iahsanujunda.github.io)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hasibaliopu=anuraghazra&theme=dark&show_icons=true)
 <!--Introduction -->
 I'm a **Lead Data Scientist** at [DANA Indonesia](https://dana.id), a digital payment provider in Indonesia, where I build production ready modules that leveraged statistical and learning models mainly to combat payment fraud and provide personalised experience to DANA users. Outside of work, I run freelance web development projects.
 
