@@ -26,7 +26,7 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
-  <a href="wwwhasib4@gmail.com" >
+  <a href="mailto:syedammarilyas@hotmail.com" >
     <img align="center" alt="Hasib Ali Opu | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
