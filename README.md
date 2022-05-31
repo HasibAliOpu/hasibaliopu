@@ -23,7 +23,7 @@
   
   
   
-   <br />
+  
   
   
   
@@ -31,15 +31,15 @@
    
     
     
-   <br />
+  
    <img src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&color=A259FF" />&nbsp;&nbsp;
    
    <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
    
-   <br />
+  
    <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
-   <br/>
+  
  
    <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
   
