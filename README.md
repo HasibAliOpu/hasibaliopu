@@ -1,10 +1,9 @@
-  # Hello there I am Hasib Ali👋
 
 <p align="center">
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
   <samp>
-    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm  MERN-Stack developer working on <a href="https://github.com/letskhabar">@Letskhabar :octocat:</a> to support open source. Student at IIIT Ranchi :india:
+    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px">Hello there My Name is  Hasib Ali Opu and, I'm  MERN-Stack developer 
   </samp>
 </p>
 
