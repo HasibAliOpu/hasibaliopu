@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
+  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="80%">
   <br><br>
   <samp>
     Hello,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="2%"> there My Name is  Hasib Ali Opu and, I'm  MERN-Stack developer 
@@ -58,6 +58,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibaliopu&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=hasibaliopu&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
 </div>
+<br/>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" />
   <img src="https://activity-graph.herokuapp.com/graph?username=hasibaliopu&theme=react-dark"/>
