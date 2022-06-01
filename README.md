@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
+  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="90%">
   <br><br>
   <samp>
     Hello,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> there My Name is  Hasib Ali Opu and, I'm  MERN-Stack developer 
