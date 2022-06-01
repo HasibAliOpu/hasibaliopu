@@ -53,7 +53,7 @@
 <br/>  
 <br/>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px"> About Some Stats
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50%"> About Some Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibaliopu&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=hasibaliopu&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
