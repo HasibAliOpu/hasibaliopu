@@ -3,7 +3,7 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="10%">
   <br><br>
   <samp>
-    Hello,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="2px"> there My Name is  Hasib Ali Opu and, I'm  MERN-Stack developer 
+    Hello,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="2%"> there My Name is  Hasib Ali Opu and, I'm  MERN-Stack developer 
   </samp>
 </p>
 
