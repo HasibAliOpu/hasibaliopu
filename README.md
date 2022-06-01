@@ -53,7 +53,7 @@
 <br/>  
 <br/>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="5px"> About Some Stats
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="5%"> About Some Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibaliopu&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=hasibaliopu&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
@@ -63,7 +63,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=hasibaliopu&theme=react-dark"/>
 </div>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="8px"> For More Information, Please Check Out or Connect Me Via
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="8%"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="mailto:wwwhasib4@gmail.com" >
     <img align="center" alt="Hasib Ali Opu | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
