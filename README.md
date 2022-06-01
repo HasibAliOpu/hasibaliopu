@@ -60,8 +60,9 @@
 </div>
 <br/>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" /> <br/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" />
   <img src="https://activity-graph.herokuapp.com/graph?username=hasibaliopu&theme=react-dark"/>
+ <br/>
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="8%"> For More Information, Please Check Out or Connect Me Via
