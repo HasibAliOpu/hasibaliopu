@@ -59,9 +59,9 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=hasibaliopu&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
 </div>
 <br/>
+<br/>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" />
- <br/>
   <img src="https://activity-graph.herokuapp.com/graph?username=hasibaliopu&theme=react-dark"/>
 </div>
 
